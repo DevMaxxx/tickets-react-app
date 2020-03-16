@@ -1,0 +1,26 @@
+.detail{
+    background-color: var(--secondary-color);
+    box-sizing: border-box;
+    padding: 10px;
+    overflow: auto;
+}
+.noTicket{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: 0.8rem;
+    background-color: transparent;
+}
+.information{
+    display: grid;
+    grid-gap: 10px;
+}
+.icon{
+    padding: 5px;
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    border-radius: 50%;
+}

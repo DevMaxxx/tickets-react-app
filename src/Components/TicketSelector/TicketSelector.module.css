@@ -1,0 +1,7 @@
+.ticketSelector{
+    min-height: 0;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    grid-gap: 10px;
+}

@@ -1,0 +1,8 @@
+input{
+    background: transparent;
+    box-sizing: border-box;
+    border: 1px solid #323232;
+    color: gray;
+    padding: 5px;
+    font-size: 1em;
+}

@@ -1,0 +1,9 @@
+.titledString{
+    box-sizing: border-box;
+    padding: 5px;
+}
+.title{
+    color: #5f5f5f;
+    font-size: 0.8rem;
+    background-color: transparent;
+}
